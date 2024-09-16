@@ -1,0 +1,366 @@
+body {
+    overflow-x: hidden;
+  }
+.vinotinto {
+    background-color: #d9ab00;
+    color: white;
+    height: 100px; 
+}
+
+img {
+    width: 100%;
+}
+
+.azul {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.lupa {
+    width: 20px;
+    background-color: #00bdc9;
+    padding: 10px;
+}
+
+.flotar {
+    float: left;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.rojo li {
+    float: left;
+    width: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.rojo {
+    margin-left: 300px;
+    width: 500px;
+    height: 100px;
+}
+
+.verde {
+    padding-top: 28px;
+}
+
+.verde input {
+    height: 38px;
+    border: none;
+    background-color: #fbc301;
+    color: white;
+}
+
+.seccion1 .hijo2 {
+    width: 600px;
+}
+
+.seccion1 {
+    background-color: #fbc302;
+    height: 900px;
+    color: white;
+}
+
+.seccion1 .hijo1 {
+    padding-top: 100px;
+    padding-left: 80px;
+    width: 700px;
+}
+
+.seccion1 h1 {
+    font-size: 50px;
+}
+
+.seccion1 p {
+    font-size: 15px;
+}
+
+.seccion1 .boton1 {
+    background-color: #00bdc9;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.seccion1 .boton2 {
+    border: 2px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.seccion2 {
+    height: 100px;
+    color: black;
+    text-align: start;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.boton {
+    background-color: #fbc301;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.seccion2 .perro {
+    width: 400px;
+}
+
+.seccion3 {
+    background-color: #fbc302;
+    width: 1550px;
+    height: auto;
+    color: white;
+    margin-top: 400px;
+}
+
+.display {
+    display: flex;
+    padding-left: 200px;
+}
+.perro1 {
+    margin-left: 100px;
+    width: 300px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.perro2 {
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.perro3 {
+    float: right;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 400px;
+    text-align: center;
+}
+.texto {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.seccion4 {
+    height: 100px;
+    color: black;
+    text-align: start;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.boton2 {
+    background-color: #fbc301;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+
+.seccion2 .perro {
+    width: 400px;
+}
+
+.texto2 {
+    text-align: right;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.seccion5 {
+    background-color: #fbc302;
+    width: 1550px;
+    height: auto;
+    color: white;
+    margin-top: 400px;
+}
+.display2{
+    display: flex;
+    padding-left: 150px;
+}
+.texto3 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.tachado{
+    text-decoration: line-through;
+}
+.dog1 {
+    float: left;
+    margin-left: 100px;
+    width: 300px;
+    text-align: center;
+}
+
+.botonazul {
+    background-color: #01dafb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.dog2 {
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.dog3 {
+    float: right;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+.seccion6 {
+    color: black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+}
+
+.veterinaria1 {
+    float: left;
+    margin-left: 100px;
+    width: 300px;
+    text-align: center;
+}
+
+.veterinaria2 {
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.veterinaria3 {
+    float: right;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+.logos {
+    width: 30px;
+    float: left;
+    text-align: center;
+}
+.display3{
+    display: flex;
+    padding-left: 70px;
+}
+.face {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.x {
+    margin-left: 20px;
+    text-align: center;
+}
+
+.wp {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.seccion7 {
+    margin-top: 100px;
+    background-image: none;
+}
+
+.seccion8 {
+    color: black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.ph {
+    float: left;
+    margin-left: 100px;
+    width: 300px;
+    text-align: center;
+}
+
+.textph {
+    text-align: left;
+}
+
+.color {
+    color: #00bdc9;
+    text-align: left;
+}
+
+.ph1 {
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.ph2 {
+    float: right;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+.seccion9 {
+    background-color: #0f0e0e;
+    color: white;
+    margin-top: 600px;
+    font-size: 20px;
+}
+
+.text3 {
+    text-align: right;
+    margin-left: 700px;
+}
+
+ol {
+    list-style: none;
+}
+.display4{
+    display: flex;
+}
